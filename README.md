@@ -29,12 +29,14 @@ _The links marked with * are affiliate links._
 
 ------------
 ## Thanks for your files
-EinfachFelix
-Roscha
-bracka
-morpheus(flo)
-Thuldok
-Falkzetzu
+- Ahappymac(Joon)
+- bracka
+- EinfachFelix
+- Falkzetzu
+- m0ep
+- morpheus(flo)
+- Roscha
+- Thuldok
 
 This project was realized with the great help of the "zackbummfertig"-community on Discord:
 [http://discord.zackbummfertig.tv](http://discord.zackbummfertig.tv)
