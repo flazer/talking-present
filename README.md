@@ -24,9 +24,9 @@ I've added two examples as to how you could assemble the hardware (breadboard an
 - MicroSD-Card: [https://amzn.to/37QY1Hs](https://amzn.to/37QY1Hs) *
 - Jumper: Set - [https://amzn.to/33WgL73](https://amzn.to/33WgL73) *
 - Breadboard: 3er Set - [https://amzn.to/2LbMx9y](https://amzn.to/2LbMx9y) *
-------------
-* The links marked with * are affiliate links.
 
+* The links marked with * are affiliate links.
+------------
 ## Thanks for your files
 EinfachFelix
 Roscha
