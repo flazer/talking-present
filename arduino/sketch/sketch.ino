@@ -38,12 +38,11 @@ void handlePlayer() {
   doPlay = random(1, 100);
   if(doPlay <= freq && !playing && coolingDownSecs == 0) {
     fileCount = mp3.getTotalTrackCount(DfMp3_PlaySource_Sd);
-    randomize = true;
-    while(randomize) { // to avoid playing same file from before again
+    while(true) { // to avoid playing same file from before again
       randInt = random(1, fileCount + 1);
       if(!isPlayedFile(randInt)) {
         lastPlayedFiles.unshift(randInt);
-        randomize = false;
+        break;
       }
     }
 
